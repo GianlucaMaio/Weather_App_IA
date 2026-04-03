@@ -1,0 +1,8 @@
+com\weather\server\WeatherServer$1.class
+com\weather\ui\WeatherDisplay.class
+com\weather\models\WeatherData.class
+com\weather\service\WeatherService.class
+com\weather\api\WeatherApiClient.class
+com\weather\service\WeatherService$1.class
+com\weather\api\WeatherApiClient$Coordinates.class
+com\weather\api\WeatherApiClient$1.class

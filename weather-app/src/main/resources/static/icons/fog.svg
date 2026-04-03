@@ -1,0 +1,6 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Nebbia">
+  <ellipse cx="64" cy="46" rx="44" ry="26" fill="#CBD5E1" />
+  <path d="M24 62c-6 16 4 32 22 36s36-4 42-20c4-10 2-18-6-24H30c-4 2-8 6-6 8Z" fill="#E2E8F0" />
+  <rect x="20" y="88" width="88" height="10" rx="5" fill="#D1D5DB" />
+  <rect x="16" y="102" width="96" height="10" rx="5" fill="#D1D5DB" />
+</svg>

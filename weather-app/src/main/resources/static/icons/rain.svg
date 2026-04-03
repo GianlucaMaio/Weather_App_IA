@@ -1,0 +1,6 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pioggia">
+  <ellipse cx="64" cy="50" rx="38" ry="26" fill="#CBD5E1" />
+  <path d="M36 50c-6-18 4-36 22-40s36 4 42 22c4 12 0 24-10 32H42c-4-4-6-10-4-14Z" fill="#E2E8F0" />
+  <path d="M48 82c2 10 10 16 14 24 4-8 12-14 14-24 2-10-4-18-12-18s-18 8-16 18Z" fill="#60A5FA" />
+  <path d="M66 82c2 10 10 16 14 24 4-8 12-14 14-24 2-10-4-18-12-18s-18 8-16 18Z" fill="#60A5FA" />
+</svg>

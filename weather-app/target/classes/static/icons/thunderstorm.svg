@@ -1,0 +1,5 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Temporale">
+  <ellipse cx="64" cy="50" rx="38" ry="24" fill="#CBD5E1" />
+  <path d="M42 58c-8-18 2-38 22-44s40 2 48 20c6 14 2 28-10 36H52c-8-6-12-14-10-12Z" fill="#E2E8F0" />
+  <path d="M60 74l-14 26h18l-8 20 22-32h-18l12-14z" fill="#FACC15" />
+</svg>
